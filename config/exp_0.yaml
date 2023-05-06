@@ -34,6 +34,6 @@ engine:
   save_result: True
 
 log:
-  project: OrderSum--${mode.dataset}
-  name: ${mode.model}--exp_0--${now:%Y-%m-%d}/${now:%H-%M-%S}
+  project: bertsum
+  name: exp_0--${now:%Y-%m-%d}/${now:%H-%M-%S}
   save_dir: ./log
