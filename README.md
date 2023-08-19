@@ -7,7 +7,7 @@ Most implementations in the field of summarization still rely on [nlpyang/PreSum
 ## Training
 We used [bert-base-uncased](https://huggingface.co/bert-base-uncased) for the BERT checkpoints, and training was conducted on a single T4.
 
-<img src="https://github.com/Espresso-AI/bertsum-korean/blob/main/misc/bertsum_training.png" width="850" height="350">
+<img src="https://github.com/Espresso-AI/bertsum/blob/main/misc/training_bertsum.png" width="850" height="350">
 
 ## Evaluation
 The results of our model evaluated on CNN/DailyMail test set is as follows:
